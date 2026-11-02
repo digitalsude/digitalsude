@@ -39,14 +39,15 @@ I'm a founding marketer based in İstanbul and Ankara. I've built marketing from
 - **Stack:** HTML, CSS, vanilla JavaScript, SVG, Vercel. Built with Claude Code.
 - **Live:** [sudeozkan.vercel.app](https://sudeozkan.vercel.app)
 
-### SEO content pipeline &nbsp;·&nbsp; [`seoblog`](https://github.com/digitalsude-ux/seoblog)
-**An n8n workflow that publishes bilingual SEO articles straight into a Git repository.**
+### Content automation with n8n
+**Workflows that turn a topic into a published Reel or a bilingual SEO article, with a human approval step.**
 
-<img src="assets/seo-pipeline.svg" width="100%" alt="Diagram: topic and keyword, n8n workflow, Turkish and English article, MDX with front matter, commit to GitHub." />
+<img src="assets/content-automation.svg" width="100%" alt="Diagram of two n8n flows. Instagram Reels: topic and character, AI script, image, Veo 3 video, Slack approval, publish. SEO articles: topic and keyword, Turkish and English article, front matter, MDX file, commit, live on blog." />
 
-- **Problem:** a language-learning product needed a steady stream of search content in Turkish and English without a writer in the loop for every post.
-- **What I built:** an n8n workflow that produces each article in both languages with SEO front matter (title, description, date, cover, tags) and commits it as MDX. The repository holds the output: every post was committed by the workflow.
-- **Stack:** n8n, MDX, GitHub
+- **Problem:** daily social and search content for several brands meant repeating the same steps by hand.
+- **What I built:** a Reels flow where AI writes the script from a topic and a character, an image is prepared, Veo 3 makes the video and it goes to Instagram through the Graph API. Carousel and single-post flows follow the same pattern. An SEO flow writes each article in Turkish and English with front matter and ships it to the blog as MDX. Nothing on the social flows publishes until a person approves it in Slack.
+- **Stack:** n8n, Veo 3, GPT-4o, Slack, Instagram Graph API, Google Sheets, MDX
+- **Status:** private. Happy to walk through it on a call.
 
 ### Marketing skills for AI agents
 **A playbook I've taught Claude, so every video and post starts from the same standards.**
@@ -62,14 +63,14 @@ I'm a founding marketer based in İstanbul and Ankara. I've built marketing from
 **Founding marketer for a global web3 education platform**
 - **Challenge:** build marketing from zero for a new platform that had to work in several countries at once.
 - **What I built:** the content and growth engine behind free courses, hackathons, grants and bounties.
-- **Execution:** entered Türkiye and India first, then Indonesia, the Philippines and Vietnam. Ran marketing for joint programs with global blockchain foundations.
-- **Outcome:** X engagement up 88.5% in six months, LinkedIn engagement doubled, Instagram engagement up 43.7%.
+- **Execution:** entered Türkiye and India first, then Indonesia, the Philippines and Vietnam. Ran marketing for joint programs with global blockchain foundations; the campaigns I ran helped distribute over $1M to the community.
+- **Outcome:** X engagement up 88.5% in six months (171K to 322.6K), LinkedIn engagement doubled, Instagram engagement up 43.7%.
 
 **Short-form growth for a coding education community**
 - **Challenge:** grow a coding education brand with organic content only.
 - **What I built:** an audience-first Reels format, tested and adapted every week, with AI at the center of the creative process.
 - **Execution:** humor and trends for Gen Z, career-change stories, clear calls to apply.
-- **Outcome:** 9.9M Instagram reach in one year, Instagram followers from 9K to 67K, LinkedIn followers from 19K to 56K in a year, X followers from 3K to 15K, 345K+ profile visits and 300K+ link clicks.
+- **Outcome:** 9.9M Instagram reach in one year, Instagram followers from 9K to 90K, LinkedIn followers from 19K to 56K in a year, X followers from 3K to 15K, 345K+ profile visits and 300K+ link clicks.
 
 **Market entry for developer communities in Türkiye**
 - **Challenge:** bring global web3 developer communities into the Turkish market.
