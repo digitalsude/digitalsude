@@ -1,4 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D3BEE,50:E8487A,100:FFC161&height=190&section=header&text=Sude%20%C3%96zkan&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Fullstack%20marketer%20%C2%B7%20Web2%20%26%20Web3%20content%20from%20A%20to%20Z&descSize=18&descAlignY=58" width="100%" alt="Sude Özkan, Fullstack marketer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D3BEE,50:E8487A,100:FFC161&height=150&section=header" width="100%" alt="" />
+
+<h1 align="center">Sude Özkan</h1>
+<p align="center"><b>Fullstack marketer</b> · Web2 &amp; Web3 content from A to Z</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=1200&color=E8487A&center=true&vCenter=true&width=640&lines=I+tell+stories+that+sell.;Video+%C2%B7+storytelling+%C2%B7+content+%C2%B7+growth;Web2+and+Web3%2C+from+idea+to+publish.;When+a+process+repeats%2C+I+build+a+tool." alt="I tell stories that sell. Video, storytelling, content, growth." />
