@@ -1,118 +1,112 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D3BEE,50:E8487A,100:FFC161&height=150&section=header" width="100%" alt="" />
-
-<h1 align="center">Sude Özkan</h1>
-<p align="center"><b>Fullstack marketer</b> · Web2 &amp; Web3 content from A to Z</p>
+<img src="assets/hero.svg" width="100%" alt="Hi, I'm Sude. I build marketing systems. AI-Native Full-Stack Marketer: strategy, creative production, automation and code." />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=1200&color=E8487A&center=true&vCenter=true&width=640&lines=I+tell+stories+that+sell.;Video+%C2%B7+storytelling+%C2%B7+content+%C2%B7+growth;Web2+and+Web3%2C+from+idea+to+publish.;When+a+process+repeats%2C+I+build+a+tool." alt="I tell stories that sell. Video, storytelling, content, growth." />
+  <a href="https://sudeozkan.vercel.app"><b>Portfolio</b></a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/sudeozkan/"><b>LinkedIn</b></a> &nbsp;·&nbsp;
+  <a href="https://x.com/digitalsude"><b>X</b></a> &nbsp;·&nbsp;
+  <a href="https://www.instagram.com/sude.ai/"><b>Instagram</b></a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/📍_İstanbul_&_Ankara-23252F?style=for-the-badge" alt="İstanbul & Ankara" />
-  <a href="https://sude.ai"><img src="https://img.shields.io/badge/sude.ai-6D3BEE?style=for-the-badge&logo=googlechrome&logoColor=white" alt="sude.ai" /></a>
-  <a href="https://www.linkedin.com/in/sudeozkan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/digitalsude"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://www.instagram.com/sude.ai/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-</p>
+I don't just run marketing campaigns. I build the tools, workflows and systems behind them.
 
----
+I'm a founding marketer based in İstanbul and Ankara. I've built marketing from zero for a global developer community and run it across several countries, and I move between strategy, creative production, code and measurement in the same week, often the same day.
 
-## 👋 Hi, I'm Sude
+## What I build
 
-I'm a **fullstack marketer**. I take a product from a blank page to a published story: the strategy, the script, the video, the copy, the launch, and the numbers after.
+<img src="assets/build-growth.svg" width="100%" alt="Growth and Distribution: launch strategy, SEO, conversion, community, experiments." />
+<img src="assets/build-ai.svg" width="100%" alt="AI and Creative Systems: AI video workflows, creative automation, visual systems, agent skills." />
+<img src="assets/build-eng.svg" width="100%" alt="Marketing Engineering: custom tools, automations, integrations, rapid prototypes." />
 
-I've produced content **from A to Z for both Web2 and Web3**: SaaS and HR tech, education and bootcamps, developer communities, hackathons, blockchain ecosystems and product launches. Different audiences, same job: make people understand why it matters in the first three seconds.
-
-And I work where marketing meets code. When a process repeats, I turn it into a tool, so a small team can ship like a big one.
-
----
-
-## 🎬 What I do
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎥 Video</h3>
-      Reels and short-form, product launch films, builder stories, event and hackathon recaps, B2B explainers, talking-head edits, motion graphics. From raw footage to the delivery file, with captions, sound design and platform-safe framing.
-    </td>
-    <td width="50%" valign="top">
-      <h3>📖 Storytelling</h3>
-      Hooks, story arcs and scripts. Founder and builder stories, customer stories, "why can't this be you?" narratives. One clear idea per piece, told with real people and real numbers.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>✍️ Content</h3>
-      Social posts and captions for X, LinkedIn and Instagram, landing page copy, blog and SEO articles, newsletters, briefs for designers and video teams. B2B and B2C, Turkish and English.
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌐 Web2 + Web3</h3>
-      Product and SaaS marketing on one side; ecosystem launches, developer programs, hackathons and partner announcements on the other. I know how to explain a protocol without hype, and a product without jargon.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📈 Growth</h3>
-      Launch planning, SEO, CRO, analytics, A/B testing, community-led growth. Content that is measured, not just posted.
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 AI workflows</h3>
-      Claude Code, custom agent skills, scripted video with Remotion, local transcription. I teach AI my standards once, then it follows them on every project.
-    </td>
-  </tr>
-</table>
-
----
-
-## 🛠️ What I'm building
+## Featured projects
 
 ### Edit Panel
-**A local, AI-assisted video studio.**
-Pick a brand, an audience (B2B or B2C) and a format, then drop in raw footage, an image folder or a web page. The panel builds the first cut with the brand's own rules: colors, fonts, logos, tone, safe zones and sound rules.
-- I fine-tune by hand on a timeline and leave notes on frames; Claude applies them.
-- Silences get trimmed and captions land on the spoken words.
-- Delivery files and platform-ready captions come out of the same place.
+**A local, AI-assisted video studio that turns brand rules into a first cut.**
 
-`Remotion` · `React` · `Node.js` · `Claude Code` · `mlx-whisper`
+<img src="assets/project-edit-panel.svg" width="100%" alt="Screenshot of Edit Panel: a timeline, a 9:16 preview with a hook line, a Claude activity log and project settings." />
+
+- **Problem:** making videos for several brands meant repeating the same rules by hand every time: colors, fonts, safe zones, captions, sound levels.
+- **What I built:** a panel where I pick a brand, an audience (B2B or B2C) and a format, then add footage, an image folder or a web page. It trims silences, places word-level captions, builds the first cut from the brand's rules and writes the post copy for each platform. I fine-tune on a timeline and leave notes on frames; Claude applies them.
+- **Stack:** Remotion, React, Node.js, Claude Code (headless mode and hooks), mlx-whisper, ffmpeg
+- **Status:** private, in daily use. Happy to walk through it on a call.
+
+### Portfolio site
+**An illustrated, scroll-driven portfolio where the page itself is a content machine.**
+
+<img src="assets/project-portfolio.svg" width="100%" alt="Screenshot of the portfolio hero: a dark night sky, a retro rainbow ribbon and a phone playing word-by-word captions." />
+
+- **Problem:** a CV can't show how I think about attention, pacing and story.
+- **What I built:** art direction, copy and the build. A rainbow ribbon pours into a funnel, pipes fill as you scroll and the page ends in a cauldron. Real results sit next to real videos, in English and Turkish.
+- **Stack:** HTML, CSS, vanilla JavaScript, SVG, Vercel. Built with Claude Code.
+- **Live:** [sudeozkan.vercel.app](https://sudeozkan.vercel.app)
+
+### SEO content pipeline &nbsp;·&nbsp; [`seoblog`](https://github.com/digitalsude-ux/seoblog)
+**An n8n workflow that publishes bilingual SEO articles straight into a Git repository.**
+
+<img src="assets/seo-pipeline.svg" width="100%" alt="Diagram: topic and keyword, n8n workflow, Turkish and English article, MDX with front matter, commit to GitHub." />
+
+- **Problem:** a language-learning product needed a steady stream of search content in Turkish and English without a writer in the loop for every post.
+- **What I built:** an n8n workflow that produces each article in both languages with SEO front matter (title, description, date, cover, tags) and commits it as MDX. The repository holds the output: every post was committed by the workflow.
+- **Stack:** n8n, MDX, GitHub
 
 ### Marketing skills for AI agents
-**A growing library of playbooks I've taught Claude.**
-It covers brand kits, B2B launch video standards, builder-story structure, voice-over and sound rules, Reels and LinkedIn safe zones, and copy rules. Every video and post follows them without me repeating myself.
+**A playbook I've taught Claude, so every video and post starts from the same standards.**
 
-### [seoblog](https://github.com/digitalsude-ux/seoblog)
-An MDX blog built for search.
+- **Problem:** the same rules (brand kits, sound levels, safe zones, story structure) were living in my head and in old chats.
+- **What I built:** a set of Claude skills covering brand kits, B2B launch video standards, builder-story structure, voice-over and sound rules, and Reels and LinkedIn safe zones. They power Edit Panel. With them, a short video takes me about 15 minutes.
+- **Status:** private, because they contain client brand rules.
 
----
+## Selected work and impact
 
-## 🧰 Toolbox
+> Full case studies, with company names and the actual videos, are on [my portfolio](https://sudeozkan.vercel.app).
 
-<p>
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/Remotion-0B84F3?style=flat-square&logo=remotion&logoColor=white" alt="Remotion" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logo=elevenlabs&logoColor=white" alt="ElevenLabs" />
-  <img src="https://img.shields.io/badge/Higgsfield-111111?style=flat-square" alt="Higgsfield" />
-  <img src="https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white" alt="Whisper" />
-  <img src="https://img.shields.io/badge/MDX-1B1F24?style=flat-square&logo=mdx&logoColor=white" alt="MDX" />
-</p>
+**Founding marketer for a global web3 education platform**
+- **Challenge:** build marketing from zero for a new platform that had to work in several countries at once.
+- **What I built:** the content and growth engine behind free courses, hackathons, grants and bounties.
+- **Execution:** entered Türkiye and India first, then Indonesia, the Philippines and Vietnam. Ran marketing for joint programs with global blockchain foundations.
+- **Outcome:** X engagement up 88.5% in six months, LinkedIn engagement doubled, Instagram engagement up 43.7%.
 
----
+**Short-form growth for a coding education community**
+- **Challenge:** grow a coding education brand with organic content only.
+- **What I built:** an audience-first Reels format, tested and adapted every week, with AI at the center of the creative process.
+- **Execution:** humor and trends for Gen Z, career-change stories, clear calls to apply.
+- **Outcome:** 9.9M Instagram reach in one year, Instagram followers from 9K to 67K, LinkedIn followers from 19K to 56K in a year, X followers from 3K to 15K, 345K+ profile visits and 300K+ link clicks.
 
-## 💡 How I work
+**Market entry for developer communities in Türkiye**
+- **Challenge:** bring global web3 developer communities into the Turkish market.
+- **What I built:** a local marketing playbook: targeted campaigns, community meetups, an influencer collaboration and a partnership with a major video platform.
+- **Execution:** sized each opportunity, wrote the briefs and ran the process end to end.
+- **Outcome:** one launch reached 2,000 followers on X in four months; I led another community's marketing and market entry for two years.
 
-> **Real product, real numbers, no hype.** If a claim can't be verified, it doesn't go on screen.
+**AI-powered event content at a global conference**
+- **Challenge:** cover a week-long conference while the moments were still fresh.
+- **What I built:** a Claude skill for our video workflow: interview pacing, where to cut, subtitles and name cards.
+- **Execution:** shot interviews on the ground and edited quick recaps the same day.
+- **Outcome:** one of our videos played on the main stage after the foundation's CEO mentioned our team. The most-viewed piece passed 11,400 views on X.
 
-- The first three seconds have to work with the sound off.
-- One idea per piece. If it needs two, it's two pieces.
-- Every brand gets its own look, from its own site and brand kit.
-- If I do it twice, I write it down. If I do it three times, I automate it.
+## My stack
 
----
+| Function | Tools I actually use |
+|---|---|
+| **AI & Agents** | Claude Code, custom agent skills, mlx-whisper, ElevenLabs, Higgsfield |
+| **Development** | React, Node.js, Remotion, HTML, CSS, JavaScript, MDX, Vercel |
+| **Automation** | n8n, Claude Code headless mode and hooks, ffmpeg scripts |
+| **Creative Production** | Video editing, motion, storyboards, briefs, word-by-word captions |
+| **Analytics & Growth** | Google Analytics, A/B testing, SEO, lead tracking |
+
+## How I work
+
+- **If I explain a rule twice, it becomes a skill.** Build once, reuse on every project.
+- **Brand first, then speed.** Every system starts from the brand's own colors, voice and rules.
+- **Real numbers only.** If a claim can't be verified, it doesn't ship.
+- **The first three seconds work on mute.** Most people watch without sound.
+- **AI executes, people decide.** Strategy and judgment stay human.
+- **Ship, measure, keep the winner.** The best-performing format becomes the next template.
+
+<img src="assets/cta.svg" width="100%" alt="Let's build marketing that works, and systems that scale." />
 
 <p align="center">
-  <b>Let's build something people actually watch.</b><br/>
-  <a href="https://sude.ai">sude.ai</a> · <a href="https://www.linkedin.com/in/sudeozkan/">LinkedIn</a> · <a href="https://x.com/digitalsude">X</a> · <a href="https://www.instagram.com/sude.ai/">Instagram</a>
+  <a href="https://sudeozkan.vercel.app"><b>Portfolio</b></a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/sudeozkan/"><b>LinkedIn</b></a> &nbsp;·&nbsp;
+  <a href="https://x.com/digitalsude"><b>X</b></a> &nbsp;·&nbsp;
+  <a href="https://www.instagram.com/sude.ai/"><b>Instagram</b></a>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC161,50:E8487A,100:6D3BEE&height=110&section=footer" width="100%" alt="" />
