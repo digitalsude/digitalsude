@@ -78,6 +78,12 @@ I'm a founding marketer based in İstanbul and Ankara. I've built marketing from
 - **Execution:** sized each opportunity, wrote the briefs and ran the process end to end.
 - **Outcome:** one launch reached 2,000 followers on X in four months; I led another community's marketing and market entry for two years.
 
+**Web3 event planning and production**
+- **Challenge:** bring web3 ecosystems together in person, from small meetups to activations at global conferences.
+- **What I built:** an end-to-end event process: plans and run-of-show schedules, budgets with spend and KPI tracking, vendor sourcing and negotiation, and merch made with designers and manufacturers.
+- **Execution:** ran event-day operations, staff and contractors on site; secured speaking slots for our team and handled international travel and hotels.
+- **Outcome:** hackathons, meetups, side events, VIP dinners and conference activations, each closed with a debrief and a report that improves the next one.
+
 **AI-powered event content at a global conference**
 - **Challenge:** cover a week-long conference while the moments were still fresh.
 - **What I built:** a Claude skill for our video workflow: interview pacing, where to cut, subtitles and name cards.
