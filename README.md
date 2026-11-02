@@ -9,7 +9,7 @@
 
 I don't just run marketing campaigns. I build the tools, workflows and systems behind them.
 
-I'm a founding marketer based in İstanbul and Ankara. I've built marketing from zero for a global developer community and run it across several countries, and I move between strategy, creative production, code and measurement in the same week, often the same day.
+I'm a digital marketing manager and founding marketer based in İstanbul and Ankara. I've built marketing from zero for a global developer community and run it across several countries, and I move between strategy, creative production, code and measurement in the same week, often the same day.
 
 ## What I build
 
@@ -60,23 +60,11 @@ I'm a founding marketer based in İstanbul and Ankara. I've built marketing from
 
 > Full case studies, with company names and the actual videos, are on [my portfolio](https://sudeozkan.vercel.app).
 
-**Founding marketer for a global web3 education platform**
-- **Challenge:** build marketing from zero for a new platform that had to work in several countries at once.
-- **What I built:** the content and growth engine behind free courses, hackathons, grants and bounties.
-- **Execution:** entered Türkiye and India first, then Indonesia, the Philippines and Vietnam. Ran marketing for joint programs with global blockchain foundations; the campaigns I ran helped distribute over $1M to the community.
-- **Outcome:** X engagement up 88.5% in six months (171K to 322.6K), LinkedIn engagement doubled, Instagram engagement up 43.7%.
-
-**Short-form growth for a coding education community**
-- **Challenge:** grow a coding education brand with organic content only.
-- **What I built:** an audience-first Reels format, tested and adapted every week, with AI at the center of the creative process.
-- **Execution:** humor and trends for Gen Z, career-change stories, clear calls to apply.
-- **Outcome:** 9.9M Instagram reach in one year, Instagram followers from 9K to 90K, LinkedIn followers from 19K to 56K in a year, X followers from 3K to 15K, 345K+ profile visits and 300K+ link clicks.
-
-**Market entry for developer communities in Türkiye**
-- **Challenge:** bring global web3 developer communities into the Turkish market.
-- **What I built:** a local marketing playbook: targeted campaigns, community meetups, an influencer collaboration and a partnership with a major video platform.
-- **Execution:** sized each opportunity, wrote the briefs and ran the process end to end.
-- **Outcome:** one launch reached 2,000 followers on X in four months; I led another community's marketing and market entry for two years.
+**AI-powered event content at a global conference**
+- **Challenge:** cover a week-long conference while the moments were still fresh.
+- **What I built:** a Claude skill for our video workflow: interview pacing, where to cut, subtitles and name cards.
+- **Execution:** shot interviews on the ground and edited quick recaps the same day.
+- **Outcome:** one of our videos played on the main stage after the foundation's CEO mentioned our team. The most-viewed piece passed 11,400 views on X.
 
 **Web3 event planning and production**
 - **Challenge:** bring web3 ecosystems together in person, from small meetups to activations at global conferences.
@@ -84,11 +72,23 @@ I'm a founding marketer based in İstanbul and Ankara. I've built marketing from
 - **Execution:** ran event-day operations, staff and contractors on site; secured speaking slots for our team and handled international travel and hotels.
 - **Outcome:** hackathons, meetups, side events, VIP dinners and conference activations, each closed with a debrief and a report that improves the next one.
 
-**AI-powered event content at a global conference**
-- **Challenge:** cover a week-long conference while the moments were still fresh.
-- **What I built:** a Claude skill for our video workflow: interview pacing, where to cut, subtitles and name cards.
-- **Execution:** shot interviews on the ground and edited quick recaps the same day.
-- **Outcome:** one of our videos played on the main stage after the foundation's CEO mentioned our team. The most-viewed piece passed 11,400 views on X.
+**Founding marketer for a global web3 education platform**
+- **Challenge:** build marketing from zero for a new platform that had to work in several countries at once.
+- **What I built:** the content and growth engine behind free courses, hackathons, grants and bounties.
+- **Execution:** entered Türkiye and India first, then Indonesia, the Philippines and Vietnam. Ran marketing for joint programs with global blockchain foundations; the campaigns I ran helped distribute over $1M to the community.
+- **Outcome:** X engagement up 88.5% in six months (171K to 322.6K), LinkedIn engagement doubled, Instagram engagement up 43.7%.
+
+**Community marketing for web3 hubs in Türkiye**
+- **Challenge:** give global web3 developer communities a local home in Türkiye.
+- **What I built:** each hub's marketing from zero, together with the community: targeted campaigns, meetups, an influencer collaboration and a partnership with a major video platform.
+- **Execution:** sized each opportunity, wrote the briefs and ran the process end to end, for three hubs over the years.
+- **Outcome:** one hub reached 3,000 followers on X in its first year, another 2,000 in four months.
+
+**Short-form growth for a coding education community**
+- **Challenge:** grow a coding education brand, which started out training web2 developers, with organic content only.
+- **What I built:** an audience-first Reels format, tested and adapted every week, with AI at the center of the creative process.
+- **Execution:** humor and trends for Gen Z, career-change stories, clear calls to apply.
+- **Outcome:** 9.9M Instagram reach in one year, Instagram followers from 9K to 90K, LinkedIn followers from 19K to 56K in a year, X followers from 3K to 15K, 345K+ profile visits and 300K+ link clicks.
 
 ## My stack
 
