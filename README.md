@@ -1,4 +1,4 @@
-<img src="assets/hero.svg" width="100%" alt="Hi, I'm Sude. I build marketing systems. AI-Native Full-Stack Marketer: strategy, creative production, automation and code." />
+<img src="assets/hero-v2.svg" width="100%" alt="Hi, I'm Sude. I build marketing systems. AI-Native Full-Stack Marketer: strategy, creative production, automation and code." />
 
 <p align="center">
   <a href="https://sudeozkan.vercel.app"><b>Portfolio</b></a> &nbsp;·&nbsp;
@@ -13,16 +13,16 @@ I'm a digital marketing manager and founding marketer based in İstanbul and Ank
 
 ## What I build
 
-<img src="assets/build-growth.svg" width="100%" alt="Growth and Distribution: launch strategy, SEO, conversion, community, experiments." />
-<img src="assets/build-ai.svg" width="100%" alt="AI and Creative Systems: AI video workflows, creative automation, visual systems, agent skills." />
-<img src="assets/build-eng.svg" width="100%" alt="Marketing Engineering: custom tools, automations, integrations, rapid prototypes." />
+<img src="assets/build-growth-v2.svg" width="100%" alt="Growth and Distribution: launch strategy, SEO, conversion, community, experiments." />
+<img src="assets/build-ai-v2.svg" width="100%" alt="AI and Creative Systems: AI video workflows, creative automation, visual systems, agent skills." />
+<img src="assets/build-eng-v2.svg" width="100%" alt="Marketing Engineering: custom tools, automations, integrations, rapid prototypes." />
 
 ## Featured projects
 
 ### Edit Panel
 **A local, AI-assisted video studio that turns brand rules into a first cut.**
 
-<img src="assets/project-edit-panel.svg" width="100%" alt="Screenshot of Edit Panel: a timeline, a 9:16 preview with a hook line, a Claude activity log and project settings." />
+<img src="assets/project-edit-panel-v2.svg" width="100%" alt="Screenshot of Edit Panel: a timeline, a 9:16 preview with a hook line, a Claude activity log and project settings." />
 
 - **Problem:** making videos for several brands meant repeating the same rules by hand every time: colors, fonts, safe zones, captions, sound levels.
 - **What I built:** a panel where I pick a brand, an audience (B2B or B2C) and a format, then add footage, an image folder or a web page. It trims silences, places word-level captions, builds the first cut from the brand's rules and writes the post copy for each platform. I fine-tune on a timeline and leave notes on frames; Claude applies them.
@@ -32,7 +32,7 @@ I'm a digital marketing manager and founding marketer based in İstanbul and Ank
 ### Portfolio site
 **An illustrated, scroll-driven portfolio where the page itself is a content machine.**
 
-<img src="assets/project-portfolio.svg" width="100%" alt="Screenshot of the portfolio hero: a dark night sky, a retro rainbow ribbon and a phone playing word-by-word captions." />
+<img src="assets/project-portfolio-v2.svg" width="100%" alt="Screenshot of the portfolio hero: a dark night sky, a retro rainbow ribbon and a phone playing word-by-word captions." />
 
 - **Problem:** a CV can't show how I think about attention, pacing and story.
 - **What I built:** art direction, copy and the build. A rainbow ribbon pours into a funnel, pipes fill as you scroll and the page ends in a cauldron. Real results sit next to real videos, in English and Turkish.
@@ -42,7 +42,7 @@ I'm a digital marketing manager and founding marketer based in İstanbul and Ank
 ### Content automation with n8n
 **Workflows that turn a topic into a published Reel or a bilingual SEO article, with a human approval step.**
 
-<img src="assets/content-automation.svg" width="100%" alt="Diagram of two n8n flows. Instagram Reels: topic and character, AI script, image, Veo 3 video, Slack approval, publish. SEO articles: topic and keyword, Turkish and English article, front matter, MDX file, commit, live on blog." />
+<img src="assets/content-automation-v2.svg" width="100%" alt="Diagram of two n8n flows. Instagram Reels: topic and character, AI script, image, Veo 3 video, Slack approval, publish. SEO articles: topic and keyword, Turkish and English article, front matter, MDX file, commit, live on blog." />
 
 - **Problem:** daily social and search content for several brands meant repeating the same steps by hand.
 - **What I built:** a Reels flow where AI writes the script from a topic and a character, an image is prepared, Veo 3 makes the video and it goes to Instagram through the Graph API. Carousel and single-post flows follow the same pattern. An SEO flow writes each article in Turkish and English with front matter and ships it to the blog as MDX. Nothing on the social flows publishes until a person approves it in Slack.
@@ -109,7 +109,7 @@ I'm a digital marketing manager and founding marketer based in İstanbul and Ank
 - **AI executes, people decide.** Strategy and judgment stay human.
 - **Ship, measure, keep the winner.** The best-performing format becomes the next template.
 
-<img src="assets/cta.svg" width="100%" alt="Let's build marketing that works, and systems that scale." />
+<img src="assets/cta-v2.svg" width="100%" alt="Let's build marketing that works, and systems that scale." />
 
 <p align="center">
   <a href="https://sudeozkan.vercel.app"><b>Portfolio</b></a> &nbsp;·&nbsp;
