@@ -49,6 +49,16 @@ I'm a digital marketing manager and founding marketer based in İstanbul and Ank
 - **Stack:** n8n, Veo 3, GPT-4o, Slack, Instagram Graph API, Google Sheets, MDX
 - **Status:** private. Happy to walk through it on a call.
 
+### B2B Email Panel
+**An email studio built from six months of campaign data: it writes Mailjet-ready B2B emails by the rules the data proved.**
+
+<img src="assets/project-email-panel-v3.svg" width="100%" alt="Screenshot of B2B Email Panel: header image picks on the left, the email preview in the middle, data checks and the Mailjet export steps on the right." />
+
+- **Problem:** every B2B email for two brands started from a blank page, and what past campaigns had shown wasn't built into the next one.
+- **What I built:** I analysed six months of email campaign data and turned what worked into rules: a subject line that asks the reader a question, an easy free offer instead of a meeting request, one destination link, no more than three bullets. The panel has Claude write each email by those rules, draws the header image in the brand's style, rewrites any line I click with three alternatives and checks the result against the data. It exports Mailjet-ready HTML, a plain-text version for A/B tests and a PDF for team review, and it can turn a PDF report into an announcement email built from the report's own findings.
+- **Stack:** HTML, CSS, vanilla JavaScript, Canvas, Claude, pdf.js, jsPDF, Mailjet
+- **Status:** private. Happy to walk through it on a call.
+
 ### Marketing skills for AI agents
 **A playbook I've taught Claude, so every video and post starts from the same standards.**
 
